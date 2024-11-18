@@ -1,2 +1,4 @@
-# bd-assignment-1
-A Bigdata assignment 1 
+# bigdata-assignment1
+
+Github: https://github.com/sarafarouk3/bigdata-assignment1
+DockerHub: 
